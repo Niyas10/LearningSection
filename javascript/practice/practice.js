@@ -28,3 +28,4 @@
 // ◦ Instance()
 // ◦ Variable typing
 // this keyword call apply bind 
+// recursion functin 
