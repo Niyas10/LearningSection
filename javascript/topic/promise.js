@@ -25,9 +25,9 @@ console.log(error);
 
 
 
-    // const result = task(1).then(result=>{
-//     console.log(result);
-// }).catch((error)=>{
-//     console.log(error);
-// })
+    const result = task(1).then(result=>{
+    console.log(result);
+}).catch((error)=>{
+    console.log(error);
+})
 
